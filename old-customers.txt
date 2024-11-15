@@ -1,0 +1,7 @@
+
+Customer ID: 1234
+Name: Diya
+Age: 0
+Mobile Number: 9
+Address: 
+Gender: 

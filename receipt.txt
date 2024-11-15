@@ -1,0 +1,13 @@
+--------ABC Tourist Guiding sysyem--------
+------------------Receipt------------------
+_
+Customer ID: 0
+
+Description		 Total
+Tour Guide cost:	 500.00
+Hotel cost:		 5000.00
+Travel (cab) cost:	 1875.00
+_
+Total Charge:		 7375.00
+_
+------------------THANK YOU------------------
