@@ -68,7 +68,7 @@ def sentinel_Search():
         print("\t At Index: ", index) 
         print("\t Comparisons: ", comp)
     else:
-        print("\t Key Not F ound .....!!!") 
+        print("\t Key Not Found .....!!!") 
         print("\t Comparisons: ", comp)
 
 
